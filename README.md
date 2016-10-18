@@ -1,24 +1,10 @@
-# React + Webpack + Babel
+# Authentication Server
 
-Simple boilerplate for a React development environment using Webpack and Babel, it also uses ESLint and the [AirBnB linting rules](https://github.com/airbnb/javascript/tree/master/react).
+## Run Server
 
-## Install
-Install all the dependencies by running:
+Make sure you have a MongoDB service running on your machine and then start the server with:
 
-```
+´´´
 npm install
-```
-
-## Develop
-Run a Webpack development server with hotreload on [http://localhost:8080/].
-
-```
 npm run dev
-```
-
-## Build
-Use webpack to build the project and bundle all the application into a single file in the `dist` folder.
-
-```
- npm run build
-```
+´´´
